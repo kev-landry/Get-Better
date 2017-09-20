@@ -56,3 +56,5 @@ https://la-cascade.io/ Beaucoup de CSS mais pas que.
 https://unsplash.com/ Des photos high res gratuites.
 
 https://tympanus.net/codrops/ Des créations/effets css et autres.
+
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04 setup rapido un server ubuntu
