@@ -57,4 +57,8 @@ https://unsplash.com/ Des photos high res gratuites.
 
 https://tympanus.net/codrops/ Des créations/effets css et autres.
 
-https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04 setup rapido un server ubuntu
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04 setup rapido un server ubuntu.
+
+https://discordapp.com/invite/rAuuD7Q Le discord de Grafikart, grosse communauté sympa.
+
+https://zestedesavoir.com/ Plein d'articles/tuto sur des techno web mais pas que.
