@@ -59,6 +59,8 @@ https://tympanus.net/codrops/ Des créations/effets css et autres.
 
 https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04 setup rapido un server ubuntu.
 
+https://blog.dahanne.net/2016/08/01/bien-configurer-son-serveur-dedie-sous-ubuntu-16-04-lts/ Bien setup son serveur ubuntu 16.04
+
 https://discordapp.com/invite/rAuuD7Q Le discord de Grafikart, grosse communauté sympa.
 
 https://zestedesavoir.com/ Plein d'articles/tuto sur des techno web mais pas que.
